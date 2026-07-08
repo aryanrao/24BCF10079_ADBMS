@@ -1,0 +1,2 @@
+# 24BCF10079_ADBMS
+Sem 5 ADBMS repository
